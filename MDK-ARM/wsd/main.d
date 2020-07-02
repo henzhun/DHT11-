@@ -1,0 +1,33 @@
+wsd\main.o: ../Src/main.c
+wsd\main.o: ../Inc/main.h
+wsd\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+wsd\main.o: ../Inc/stm32f1xx_hal_conf.h
+wsd\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+wsd\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+wsd\main.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+wsd\main.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+wsd\main.o: ../Drivers/CMSIS/Include/core_cm3.h
+wsd\main.o: D:\Program Files (x86)\keil uVision5\ARM\ARMCC\Bin\..\include\stdint.h
+wsd\main.o: ../Drivers/CMSIS/Include/core_cmInstr.h
+wsd\main.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+wsd\main.o: ../Drivers/CMSIS/Include/core_cmFunc.h
+wsd\main.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+wsd\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+wsd\main.o: D:\Program Files (x86)\keil uVision5\ARM\ARMCC\Bin\..\include\stdio.h
+wsd\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
+wsd\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
+wsd\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
+wsd\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
+wsd\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
+wsd\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+wsd\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
+wsd\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
+wsd\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+wsd\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_spi.h
+wsd\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
+wsd\main.o: ../Inc/spi.h
+wsd\main.o: ../Inc/usart.h
+wsd\main.o: ../Inc/gpio.h
+wsd\main.o: ../Inc/DHT11.h
+wsd\main.o: ../Inc/oled.h
+wsd\main.o: ../Inc/bmp.h

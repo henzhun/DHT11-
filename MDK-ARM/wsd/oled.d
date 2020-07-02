@@ -1,0 +1,32 @@
+wsd\oled.o: oled.c
+wsd\oled.o: ../Inc/gpio.h
+wsd\oled.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+wsd\oled.o: ../Inc/stm32f1xx_hal_conf.h
+wsd\oled.o: ../Inc/main.h
+wsd\oled.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+wsd\oled.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+wsd\oled.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+wsd\oled.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+wsd\oled.o: ../Drivers/CMSIS/Include/core_cm3.h
+wsd\oled.o: D:\Program Files (x86)\keil uVision5\ARM\ARMCC\Bin\..\include\stdint.h
+wsd\oled.o: ../Drivers/CMSIS/Include/core_cmInstr.h
+wsd\oled.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+wsd\oled.o: ../Drivers/CMSIS/Include/core_cmFunc.h
+wsd\oled.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+wsd\oled.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+wsd\oled.o: D:\Program Files (x86)\keil uVision5\ARM\ARMCC\Bin\..\include\stdio.h
+wsd\oled.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
+wsd\oled.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
+wsd\oled.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
+wsd\oled.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
+wsd\oled.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
+wsd\oled.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+wsd\oled.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
+wsd\oled.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
+wsd\oled.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+wsd\oled.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_spi.h
+wsd\oled.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
+wsd\oled.o: ../Inc/DHT11.h
+wsd\oled.o: ../Inc/oled.h
+wsd\oled.o: ../Inc/spi.h
+wsd\oled.o: ../Inc/oledfont.h
